@@ -3,3 +3,5 @@ Chapter 2
 This is a first chapter 2 of project 2.
 
 I have now added additional text to chapter 2.
+
+kasl;kjar ogijragioarjgioc
